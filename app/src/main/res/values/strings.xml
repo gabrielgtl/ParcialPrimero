@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ParcialPrimero</string>
+    <string name="nombre_producto">Nombre del Producto</string>
+    <string name="precio">Precio</string>
+    <string name="categoria">Categoría</string>
+    <string name="electronica">Electrónica</string>
+    <string name="ropa">Ropa</string>
+    <string name="alimentos">Alimentos</string>
+    <string name="enviar">Enviar</string>
+    <string name="resultado">Nombre: %1$s\nPrecio: %2$s\nCategoría: %3$s</string>
+</resources>
